@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Memon mind",
+        "author": "Nihal Memon",
+        "year": "1025",
+        "genre": "Mindset",
+        "read": true
+    },
+    {
+        "title": "How To Code",
+        "author": "Nihal Naveed",
+        "year": "2025",
+        "genre": "Software programming and coding",
+        "read": true
+    },
+    {
+        "title": "Helloe",
+        "author": "34",
+        "year": "345",
+        "genre": "23",
+        "read": false
+    }
+]
